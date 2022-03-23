@@ -6,6 +6,7 @@
 + HTML
 + CSS
 + Carousel - slick
++ Pop-up created with CSS
 
 ## Preview:
 ![Preview](https://github.com/RostyslavWeb/Nerds-project/blob/main/nerds-index.jpg)
