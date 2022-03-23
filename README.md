@@ -6,4 +6,6 @@
 + HTML
 + CSS
 + Carousel - slick
+
+## Preview:
 ![Preview](https://github.com/RostyslavWeb/Nerds-project/blob/main/nerds-index.jpg)
